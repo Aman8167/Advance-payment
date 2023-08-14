@@ -1,6 +1,6 @@
 import React from 'react'
 import './Responsive2.css';
-function Responsive1() {
+function Responsive2() {
   return (
     
         <div className="container-fluid">
@@ -121,4 +121,4 @@ function Responsive1() {
   )
 }
 
-export default Responsive1;
+export default Responsive2;

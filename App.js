@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 
-import Responsive2 from './Component/Responsive2';
+import Responsive1 from './Component/Responsive1';
 
 function App() {
   return (
     <div className='App'>
-<Responsive2 />
+<Responsive1 />
     </div>
   );
 }
